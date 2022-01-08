@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShalomEzenwa
+- 👋 Hi, I’m @Shalom Ezenwa
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
